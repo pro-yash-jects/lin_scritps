@@ -29,7 +29,7 @@ A bash script that automatically archives old files from user directories to hel
    wget https://raw.githubusercontent.com/pro-yash-jects/file-archiver/main/old_arc.sh
    # or clone the repository
    git clone https://github.com/pro-yash-jects/lin_scripts.git
-   cd old_arc
+   cd lin_scripts/old_arc
    ```
 
 2. **Make the script executable**:
