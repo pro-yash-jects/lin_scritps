@@ -32,9 +32,9 @@ This script provides automated protection against SSH brute-force attacks by:
 
 1. Download the script:
 ```bash
-git clone https://github.com/pro-yash-jects/sus_login.git
+git clone https://github.com/pro-yash-jects/lin_scripts.git
 
-cd sus_login
+cd lin_scripts/sus_login
 ```
 
 2. Make it executable:
