@@ -51,7 +51,7 @@ Each line should contain `username:email_address` pairs.
 1. Clone the repository:
 ```bash
 git clone https://github.com/pro-yash-jects/lin_scripts.git
-cd pass_ex
+cd lin_scripts/pass_ex
 ```
 
 2. Make the script executable:
