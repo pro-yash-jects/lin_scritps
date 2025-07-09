@@ -1,4 +1,4 @@
-z# Password Expiry Notifier
+# Password Expiry Notifier
 
 A bash script that monitors user password expiration dates and sends email notifications when passwords are about to expire.
 
